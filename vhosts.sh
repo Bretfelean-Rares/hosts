@@ -1,6 +1,6 @@
 #!/bin/bash
 DNS=8.8.8.8
-
+echo "Modificat de studentul A"
 verifica_ip()
 {
     local name=$1
